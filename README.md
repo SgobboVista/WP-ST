@@ -36,6 +36,7 @@ Analyze your sales performance over time. View:
 - **Net Revenue**
 - The diagram now includes a **red Net Revenue line**
 - A **percentage breakdown** shows how much of your sales goes to taxes (useful for IRS or local financial authorities)
+- Added the Diagram for amount of Sales per date to Statistics.
 
 ### Settings  
 Set your **local tax percentage**, such as:
