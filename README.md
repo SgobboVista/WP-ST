@@ -1,2 +1,2 @@
 # WP-Fab-ST
-This Plugin is for tracking Sales on Fab
+This Plugin Wordpress Fab Sales Tracker is for tracking Sales on Fab in Wordpress
