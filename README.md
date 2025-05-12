@@ -2,42 +2,6 @@
 
 **WordPress Sales Tracker for Fab** is a lightweight and powerful WordPress plugin designed for freelancers, creatives, and digital product sellers. It enables you to manually or semi-automatically track your sales directly within your WordPress dashboard — no need for external spreadsheets or complex accounting tools.
 
-## Features
-
-### Dashboard  
-Manage your sales in one place. Add, edit, or delete sales entries quickly and easily.
-- Added a **search bar** to easily find sales or products
-
-### Add Sale  
-Input the following information when creating a new sale:
-- Sale Date  
-- Product Title  
-- License Type (Private / Professional)  
-- Sale Price  
-- VAT Total  
-- Tax Total  
-- Units Sold (Net)  
-- Net Revenue  
-
-### Edit Mode  
-Update any existing sale information including all fields listed above.
-
-### Delete Function  
-Remove any sales entry instantly with a single click.
-
-### Statistics  
-Analyze your sales performance over time. View:
-- Sales from the past **7 days to 24 months**
-- **Highest single sale**
-- **Average revenue**
-- **Top-performing month**
-- **Tax Percentage**  
-- **Tax Amount**  
-- **Net Revenue**
-- The diagram now includes a **red Net Revenue line**
-- A **percentage breakdown** shows how much of your sales goes to taxes (useful for IRS or local financial authorities)
-- Added the Diagram for amount of Sales per date to Statistics.
-
 ### Settings  
 Set your **local tax percentage**, such as:
 - `35%` for Germany
